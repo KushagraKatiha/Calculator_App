@@ -3,6 +3,7 @@
 This is a simple calculator app made using React.js and npx create-react-app.
 
 ## Getting Started
+You first need to installs node_modules to start using this app.
 
 Install Node.js and npm.
 

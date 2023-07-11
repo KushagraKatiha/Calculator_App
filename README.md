@@ -1,2 +1,27 @@
-# Calculator_App
-This repository contains a project which I made during my 2nd year summer internship. It is a simple calculator which can perform basic arithemetic problems like : addition , subtraction , multiplication etc.. This app is made using react.js and tailwind css 
+# Calculator App
+
+This is a simple calculator app made using React.js and npx create-react-app.
+
+## Getting Started
+
+Install Node.js and npm.
+
+Clone this repository.
+
+In the project directory, run npm install.
+
+Run npm start to start the app in development mode.
+
+## Features
+The calculator can perform basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+The calculator can clear the running total.
+
+## Author
+Kushagra Katiha
+
+### Here are some additional instructions for running the app:
+
+The app will be hosted at http://localhost:3000.
+
+You can also run the app in production mode by running npm run build and then npm start.
